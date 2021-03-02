@@ -1,0 +1,9 @@
+SEAT COUNT: 4 FUEL TYPE: Gasoline YEAR: 2010 MODEL: Bmw BRAND: 3.20 MODEL TYPE: Sedan PRICE: 100$-------------  
+SEAT COUNT: 2 FUEL TYPE: Diesel YEAR: 2014 MODEL: Mercedes BRAND: SClass MODEL TYPE: Sedan PRICE: 100$-------------
+SEAT COUNT: 2 FUEL TYPE: Gasoline YEAR: 2000 MODEL: Honda BRAND: Auris MODEL TYPE: Hatchbag PRICE: 100$-------------
+SEAT COUNT: 5 FUEL TYPE: Diesel YEAR: 2013 MODEL: Toyota BRAND: Supra MODEL TYPE: Sedan PRICE: 100$-------------
+SEAT COUNT: 4 FUEL TYPE: Diesel YEAR: 2011 MODEL: Honda BRAND: Civic MODEL TYPE: Cabrio PRICE: 100$-------------
+SEAT COUNT: 2 FUEL TYPE: Gasoline YEAR: 2012 MODEL: Opel BRAND: Corsa MODEL TYPE: Cabrio PRICE: 100$-------------
+SEAT COUNT: 5 FUEL TYPE: Gasoline YEAR: 2012 MODEL: Opel BRAND: Mokka MODEL TYPE: Sedan PRICE: 100$-------------
+SEAT COUNT: 2 FUEL TYPE: Gasoline YEAR: 2019 MODEL: Suzuki BRAND: Swift MODEL TYPE: Hatchbag PRICE: 100$-------------
+

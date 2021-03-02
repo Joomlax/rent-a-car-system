@@ -1,0 +1,1 @@
+Seat Count: 456 Fuel Type: gola YEAR: 123445 MODEL: mkh BRAND: sdw MODEL TYPE: ddf PRICE: 1234$ ------------- 
